@@ -1,0 +1,20 @@
+$primary-color: #0099cd;
+
+@import "~react-image-gallery/styles/scss/image-gallery.scss";
+
+.App {
+  text-align: center;
+  color: $primary-color;
+}
+
+.header {
+  height: 100px;
+  background: $primary-color;
+  margin-bottom: 20px;
+
+  img {
+    max-height: 80%;
+
+  }
+}
+
