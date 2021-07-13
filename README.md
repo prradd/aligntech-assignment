@@ -22,3 +22,11 @@ Full stack home assignment - Align Technology - "Dream Gallery"
 ⦁	The images provided by the custom API (not https://picsum.photos/) will be shown in the following way
   
 ⦁	Store elements in server's cache
+  
+# Scripts to run after cloning
+  
+ ### `npm run install-all` - to install all dependecies (server and front sides)
+ ### `npm run dev` - to run server and client cuncurrently
+
+
+
